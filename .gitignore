@@ -1,0 +1,4 @@
+/code
+.env
+/data/mysql
+data/redis
